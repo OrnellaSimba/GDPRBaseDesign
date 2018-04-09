@@ -51,7 +51,7 @@ This repository gives you an overview of what will be discussed during this work
 
 =====================================================================================
 
-[Check the Documentation](./Documentation/readme.md).
+[Check the Documentation](./Documentation/README.md).
 
 I will make available the various documents and references necessary to deepen your knowledge on the subject.
 You will find all this information on this repository in the documentation section.
